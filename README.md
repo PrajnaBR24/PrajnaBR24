@@ -63,9 +63,9 @@ I aspire to build a career in software development or cloud engineering, contrib
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** Add your LinkedIn profile URL
-- **GitHub:** Add your GitHub profile URL
-- **LeetCode:** Add your LeetCode profile URL
+- **LinkedIn:** https://www.linkedin.com/in/prajna-b-r-b452402a6/
+- **GitHub:** https://github.com/PrajnaBR24
+- **LeetCode:** https://leetcode.com/u/Prajna_BR/
 
 ---
 
